@@ -2,7 +2,7 @@
     <Page>
         <ActionBar title="Welcome to NativeScript-Vue!"/>
         <GridLayout columns="*" rows="*">
-            <Label class="message" :text="msg" col="0" row="0"/>
+            <Label class="message" :text="'test.with.dot'|L" col="0" row="0"/>
         </GridLayout>
     </Page>
 </template>
