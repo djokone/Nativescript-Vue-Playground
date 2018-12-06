@@ -1,3 +1,14 @@
 {
-    "test.with.dot": "get the value"
+    "test.with.dot": "get the value",
+    "thatWork": "That's work great !",
+    "(something a bit weird): but it.": "simple",
+    "add_an_other_one": "yeah !!!!",
+    "neasted": {
+        "value": "test",
+        "test": "it works",
+        "doubleNeasted": {
+            "value": "hey it's working"
+        }
+    },
+    "ho": "..."
 }
